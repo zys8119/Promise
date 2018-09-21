@@ -9,7 +9,7 @@ npm i promise-z
 ## 配置
 
 ```angular2html
-//引入store-vue
+//引入promise-z
 import Promise from "Promise"
 ///Promise 同等使用....
 ```
