@@ -10,7 +10,7 @@ npm i promise-z
 
 ```angular2html
 //引入promise-z
-import Promise from "Promise"
+import Promise from "promise-z"
 ///Promise 同等使用....
 ```
 
