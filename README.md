@@ -4,7 +4,7 @@
 ## 安装
 
 ```angular2html
-npm i store-vue
+npm i promise-z
 ```
 ## 配置
 
